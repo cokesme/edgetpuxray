@@ -1,10 +1,13 @@
 Use your Google Coral USB stick from PYTHON AND ONLY PYTHON
 
 ## Linux
-### Getting Extra File 
+### Getting Extra Files
 ```bash
 ./setup.sh
 ```
+1. firmware to flash to device
+2. model to load
+3. labels
 
 ### Running with Banana (u can run with other image too)
 
