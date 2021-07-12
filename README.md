@@ -20,4 +20,8 @@ Use your Google Coral USB stick from PYTHON AND ONLY PYTHON
 ```batch
 cmd.exe /c init.bat
 ```
+a pug
+```batch
+python connect.py https://avatars.githubusercontent.com/u/166333?v=4
+```
 
